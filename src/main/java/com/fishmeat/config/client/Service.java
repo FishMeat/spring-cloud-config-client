@@ -1,4 +1,4 @@
-package com.fishmeat;
+package com.fishmeat.config.client;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 

@@ -1,4 +1,4 @@
-package com.fishmeat;
+package com.fishmeat.config.client;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
